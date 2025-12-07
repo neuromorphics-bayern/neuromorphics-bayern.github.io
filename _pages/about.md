@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neuromorphics Bayern Initiative"
+title: "TinyAI Bayern Initiative"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 **Welcome! Grüße Sie!**
 
-Welcome to the Neuromorphics Bayern Initiative. This is a research outlet and showcase for laboratories working on Neuromorphic Systems Engineering in Bavaria. With a focus spanning from neuromorphic hardware design to spiking neuronal network algorithms and application deployment, the initiative consolidates the local network of scientists and engineers working in brain-inspired computing. 
+Welcome to the TinyAI Bayern Initiative. This is a research outlet and showcase of research laboratories working on low-power embedded AI in Bavaria. Embedded AI research spans the whole spectrum: from AI chips to algorithm accelerator chips, to neuromorphic systems, and up to neural networks and efficient machine learning on low-power devices. 
 
 
 [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/) coordinates the effort from the [Technische Hochschule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/).
