@@ -131,7 +131,7 @@ header:
 <div class="team-member">
   <div class="team-member-image">
     <a href="https://www.iis.fraunhofer.de/de/ff/kom/ki/snn.html">
-      <img src="/images/team/ncs.jpg" alt="NCSLab" width="241" height="200">
+      <img src="/images/team/ncs.jpg" alt="NCSLab" width="241" height="410">
     </a>
   </div>
   <h3><a href="https://www.iis.fraunhofer.de/de/ff/kom/ki/snn.html">NCS Lab</a></h3>
@@ -141,7 +141,7 @@ header:
 <div class="team-member">
   <div class="team-member-image">
     <a href="https://neurocomp-labs.de/">
-      <img src="/images/team/neurocomp.jpg" alt="Neuro Comp Nord Bayern Labs" width="410" height="120">
+      <img src="/images/team/neurocomp.jpg" alt="Neuro Comp Nord Bayern Labs" width="410" height="410">
     </a>
   </div>
   <h3><a href="https://neurocomp-labs.de/about-us/">NeuroComp Nord Bayern Labs</a></h3>
