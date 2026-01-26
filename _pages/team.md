@@ -49,7 +49,7 @@ header:
   border-radius: 12px;  /* Abgerundete Ecken statt rund */
   overflow: hidden;
   background: #f5f5f5;
-  display: flex;
+  display: center;
   align-items: left;
   justify-content: left;
   border: 4px solid #e1e4e8;
@@ -68,8 +68,8 @@ header:
 }
 
 .team-member-image img {
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
