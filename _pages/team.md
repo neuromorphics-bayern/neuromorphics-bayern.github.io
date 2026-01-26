@@ -43,7 +43,7 @@ header:
 
 .team-member-image {
   width: 100%;
-  max-width: 1000px;
+  width: 1000px;
   height: 500px;
   margin: 0 auto 1.5rem;
   border-radius: 12px;  /* Abgerundete Ecken statt rund */
