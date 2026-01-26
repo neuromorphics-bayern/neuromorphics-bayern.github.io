@@ -50,7 +50,7 @@ header:
   overflow: hidden;
   background: #f5f5f5;
   display: flex;
-  align-items: left;
+  align-items: down;
   justify-content: left;
   border: 4px solid #e1e4e8;
   transition: border-color 0.3s, transform 0.3s;
