@@ -134,6 +134,7 @@ header:
     <img src="/images/academics/SpikingDQN.jpg" alt="SpikingDQN">
   </div>
   <h3>Spiking DQN Agents to learn control states</h3>
+  <p>This project replicates the brain’s ability to infer motion without explicit speed data by training a spiking neural network (SNN) agent—deprived of velocity inputs—to internally reconstruct missing environmental physics using its membrane potentials as short-term memory. Through Backpropagation Through Time, the SNN-based Deep Q-Network learned to encode velocity in its hidden layers, effectively developing internal "speedometers" from spike timings alone.</p>
   <p><strong>Team:</strong></p>
   <ul>
     <li>Robin Feldmann - <a href="mailto:feldmannro80685@th-nuernberg.de">feldmannro80685@th-nuernberg.de</a></li>
@@ -147,6 +148,7 @@ header:
     <img src="/images/academics/ANN YOLO DVS Datastream.jpg" alt="EventBasedYolo">
   </div>
   <h3>YOLO Deep Neural Conv Net on Event-based Camera Traffic Tracking</h3>
+  <p>The Neuromorphic Traffic Training project aims to compare various approaches for obtaining event-based data—including self-recording, sensor-based capture, and conversion/simulation methods—by training Artificial Neural Networks (ANNs) and converting them into Spiking Neural Networks (SNNs). The focus is on developing models that can effectively track diverse traffic actors, such as pedestrians, cars, and motorcycles.</p>
   <p><strong>Team:</strong></p>
   <ul>
     <li>Mark Franz - <a href="mailto:franzma84803@th-nuernberg.de">franzma84803@th-nuernberg.de</a></li>
