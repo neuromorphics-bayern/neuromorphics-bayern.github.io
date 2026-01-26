@@ -128,6 +128,36 @@ header:
 
 <div class="research-grid">
 
+
+<!-- Project 1 -->
+<div class="research-card">
+  <div class="research-card-image">
+    <img src="/images/academics/DVS Gesture Recognition.jpg" alt="SpikingDQN">
+  </div>
+  <h3>Spiking Gesture Recognition on Event-based Camera Data</h3>
+  <p>This project implements a Spiking Neural Network (SNN) for hand gesture recognition using the IBM DVS Gesture Dataset and live data from a Prophesee Neuromorphic Event-based Camera. The approach employs a convolutional SNN architecture with heterogeneous Leaky Integrate-and-Fire (LIF) neurons.</p>
+  <p><strong>Team:</strong></p>
+  <ul>
+    <li>Maximilian Werzinger - <a href="mailto:feldmannro80685@th-nuernberg.de">feldmannro80685@th-nuernberg.de</a></li>
+  </ul>
+</div>
+
+
+<!-- Project 1 -->
+<div class="research-card">
+  <div class="research-card-image">
+    <img src="/images/academics/NeuroPose_eDVS_Saxophone_Posture_Recognition.jpg" alt="SpikingDQN">
+  </div>
+  <h3>Event-based Neuromorphic Vision for Saxophone Player Posture Analysis</h3>
+  <p>NeuroPose is a real-time, computer-vision-based posture correction system designed for musicians (specifically Saxophone). It utilizes MediaPipe for pose estimation and supports advanced Event Cameras (FireNet/Prophesee) alongside standard webcams to provide immediate visual and haptic feedback.</p>
+  <p><strong>Team:</strong></p>
+  <ul>
+    <li>Alexander Lorenz - <a href="mailto:lorenzal100383@th-nuernberg.de">lorenzal100383@th-nuernberg.de</a></li>
+    <li>Tobias Mack - <a href="mailto:mackto106280@th-nuernberg.de">mackto106280@th-nuernberg.de</a></li>
+  </ul>
+</div>
+
+
 <!-- Project 1 -->
 <div class="research-card">
   <div class="research-card-image">
