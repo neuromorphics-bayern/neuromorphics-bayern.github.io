@@ -109,7 +109,7 @@ header:
   }
   
   .team-member-image {
-    max-width: 1700px;
+    max-width: 1000px;
     height: 550px;
   }
 }
