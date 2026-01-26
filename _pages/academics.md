@@ -131,6 +131,34 @@ header:
 <!-- Project 1 -->
 <div class="research-card">
   <div class="research-card-image">
+    <img src="/images/academics/SpikingDQN.jpg" alt="SpikingDQN">
+  </div>
+  <h3>Spiking DQN Agents to learn control states</h3>
+  <p><strong>Team:</strong></p>
+  <ul>
+    <li>Robin Feldmann - <a href="mailto:feldmannro80685@th-nuernberg.de">feldmannro80685@th-nuernberg.de</a></li>
+    <li>Maximilian Arnold - <a href="mailto:arnoldma80620@th-nuernberg.de">arnoldma80620@th-nuernberg.de</a></li>
+  </ul>
+</div>
+
+<!-- Project 1 -->
+<div class="research-card">
+  <div class="research-card-image">
+    <img src="/images/academics/ANN YOLO DVS Datastream.jpg" alt="EventBasedYolo">
+  </div>
+  <h3>YOLO Deep Neural Conv Net on Event-based Camera Traffic Tracking</h3>
+  <p><strong>Team:</strong></p>
+  <ul>
+    <li>Mark Franz - <a href="mailto:franzma84803@th-nuernberg.de">franzma84803@th-nuernberg.de</a></li>
+    <li>Laurin Kerntke - <a href="mailto:kerntkela84836@th-nuernberg.de">kerntkela84836@th-nuernberg.de</a></li>
+    <li>Jonathan Pohl - <a href="mailto:pohljo85440@th-nuernberg.de">pohljo85440@th-nuernberg.de</a></li>
+  </ul>
+</div>
+
+
+<!-- Project 1 -->
+<div class="research-card">
+  <div class="research-card-image">
     <img src="/images/academics/Hybrid-ArtificialNN.jpg" alt="Hybrid-ArtificialNN">
   </div>
   <h3>Hybrid ArtificialNN and SpikingNN for closed-loop motor control</h3>
