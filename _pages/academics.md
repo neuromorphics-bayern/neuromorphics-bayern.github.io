@@ -138,7 +138,7 @@ header:
   <p>This project implements a Spiking Neural Network (SNN) for hand gesture recognition using the IBM DVS Gesture Dataset and live data from a Prophesee Neuromorphic Event-based Camera. The approach employs a convolutional SNN architecture with heterogeneous Leaky Integrate-and-Fire (LIF) neurons.</p>
   <p><strong>Team:</strong></p>
   <ul>
-    <li>Maximilian Werzinger - <a href="mailto:feldmannro80685@th-nuernberg.de">feldmannro80685@th-nuernberg.de</a></li>
+    <li>Maximilian Werzinger - <a href="mailto:werzingerma89360@th-nuernberg.de">werzingerma89360@th-nuernberg.de</a></li>
   </ul>
 </div>
 
