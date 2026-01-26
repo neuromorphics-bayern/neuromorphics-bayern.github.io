@@ -15,7 +15,7 @@ header:
 }
 
 .team-intro {
-  text-align: center;
+  text-align: left;
   margin-bottom: 3rem;
 }
 
@@ -38,7 +38,7 @@ header:
 }
 
 .team-member {
-  text-align: center;
+  text-align: left;
 }
 
 .team-member-image {
@@ -50,8 +50,8 @@ header:
   overflow: hidden;
   background: #f5f5f5;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   border: 4px solid #e1e4e8;
   transition: border-color 0.3s, transform 0.3s;
 }
