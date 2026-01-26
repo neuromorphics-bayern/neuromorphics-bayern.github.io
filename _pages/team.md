@@ -109,8 +109,8 @@ header:
   }
   
   .team-member-image {
-    max-width: 200px;
-    height: 200px;
+    max-width: 300px;
+    height: 300px;
   }
 }
 </style>
@@ -126,5 +126,26 @@ header:
   </div>
   <h3><a href="https://www.th-nuernberg.de/en/faculties/in/research/cognitive-neurocomputing/">SPICES Lab</a></h3>
 </div>
+
+<!-- Team Member -->
+<div class="team-member">
+  <div class="team-member-image">
+    <a href="https://www.iis.fraunhofer.de/de/ff/kom/ki/snn.html">
+      <img src="/images/team/ncs.jpg" alt="NCSLab">
+    </a>
+  </div>
+  <h3><a href="https://www.iis.fraunhofer.de/de/ff/kom/ki/snn.html">NCS Lab</a></h3>
+</div>
+
+<!-- Team Member -->
+<div class="team-member">
+  <div class="team-member-image">
+    <a href="https://neurocomp-labs.de/">
+      <img src="/images/team/neurocomp.jpg" alt="Neuro Comp Nord Bayern Labs">
+    </a>
+  </div>
+  <h3><a href="https://neurocomp-labs.de/about-us/">NeuroComp Nord Bayern Labs</a></h3>
+</div>
+
 
 </div>
