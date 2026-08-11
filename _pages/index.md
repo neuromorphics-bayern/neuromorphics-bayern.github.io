@@ -40,3 +40,10 @@ header:
 </div>
 
 [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/) coordinates the effort from the [Technische Hochschule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/).
+
+
+[Team](https://neuromorphics-bayern.github.io/team/)
+
+[Research](https://neuromorphics-bayern.github.io/research/)
+
+[Academics](https://neuromorphics-bayern.github.io/academics/)
